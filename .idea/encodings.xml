@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/test/Character/CharTrans.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/test/ExtendesDemo/Demo01Phone.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/test/ExtendesDemo/Demo02This.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/test/ExtendesDemo/Demo02Ｔest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/test/ExtendesDemo/NewPhone.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/test/ExtendesDemo/Phone.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/test/ObjectArray/ArrayList_Iterator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/test/ObjectArray/ArrayList_num.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/test/ObjectArray/DemoArray.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/test/ObjectArray/DemoArrayList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/test/Serializable/SerializableDemo1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/test/StringDemo/StringDemo02Count.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/test/algorithm/RandomNumberGame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/domain/Person.java" charset="GBK" />
+  </component>
+</project>
