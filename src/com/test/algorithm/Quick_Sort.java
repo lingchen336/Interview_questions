@@ -1,5 +1,7 @@
 package com.test.algorithm;
 
+import java.util.Stack;
+
 /**
  * 参考：https://www.runoob.com/w3cnote/quick-sort.html
  * 快速排序
@@ -11,6 +13,9 @@ public class Quick_Sort {
         quick_sort(arr,l,r);
         for(int i=0;i<arr.length;i++)
         System.out.println(arr[i]);
+
+        Stack<Integer>stack=new Stack<>();
+
     }
     static void quick_sort(int s[], int l, int r)
     {
