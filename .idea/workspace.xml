@@ -6,55 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="笔试真题">
-      <change afterPath="$PROJECT_DIR$/out/production/Interview questions/com/test/algorithm/dp/dp_01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Interview questions/com/test/algorithm/dp/dp_complete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Interview questions/com/test/algorithm/jianzhi/O13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Interview questions/com/test/leetcode/L1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Interview questions/com/test/leetcode/L2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Interview questions/com/test/leetcode/L3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Interview questions/com/test/leetcode/L4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Interview questions/com/test/leetcode/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Interview questions/com/test/leetcode/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Interview questions/com/test/temp/Al_20.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Interview questions/com/test/temp/Al_21.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Interview questions/com/test/temp/Al_22$solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Interview questions/com/test/temp/Al_22.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Interview questions/domain/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/dp/dp_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/dp/dp_complete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/O13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/o_56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/leetcode/L1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/leetcode/L2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/leetcode/L3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/leetcode/L4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/leetcode/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/temp/Al_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/temp/Al_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/temp/Al_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview questions/com/test/Demo/Cust.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview questions/com/test/Demo/Supermarket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview questions/com/test/Demo/TestDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview questions/com/test/Demo/Youtiao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview questions/com/test/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview questions/com/test/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview questions/com/test/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview questions/com/test/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview questions/com/test/algorithm/graph/Graph$Vertex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview questions/com/test/algorithm/graph/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview questions/com/test/algorithm/graph/StackX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview questions/com/test/mulu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview questions/com/test/mulu.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/Demo/Cust.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/Demo/Supermarket.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/Demo/TestDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/Demo/Youtiao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/algorithm/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/algorithm/graph/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/algorithm/graph/StackX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/algorithm/graph/StackX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/mulu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/mulu.txt" afterDir="false" />
-    </list>
+    <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="笔试真题" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +57,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -348,7 +300,7 @@
       <workItem from="1600934311283" duration="2314000" />
       <workItem from="1601119661725" duration="12903000" />
       <workItem from="1601438138132" duration="18855000" />
-      <workItem from="1601541383214" duration="8283000" />
+      <workItem from="1601541383214" duration="8806000" />
     </task>
     <task id="LOCAL-00001" summary="2020_9_20&#10;已经过去这么长时间了，写了很多代码，加油！">
       <created>1600573960634</created>
@@ -357,25 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1600573960634</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="笔试真题">
+      <created>1601556833044</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601556833044</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="test_testAdd - 2020.07.27 at 20h 42m 38s.xml">
-      <configuration name="test.testAdd" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test_testAdd - 2020.07.27 at 20h 42m 50s.xml">
-      <configuration name="test.testAdd" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test_testAdd - 2020.07.27 at 20h 45m 24s.xml">
-      <configuration name="test.testAdd" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test_testAdd - 2020.07.27 at 20h 45m 39s.xml">
-      <configuration name="test.testAdd" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test_testAdd - 2020.07.27 at 20h 45m 50s.xml">
-      <configuration name="test.testAdd" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -426,9 +368,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1230" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601455623676" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1600575267118">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="-1461" y="0" key="CommitChangelistDialog2" timestamp="1601556829608">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="-1461" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601556829608" />
     <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1600575267118" />
     <state x="147" y="64" width="1228" height="688" key="DiffContextDialog" timestamp="1600768571026">
       <screen x="0" y="0" width="1536" height="824" />
@@ -497,16 +440,20 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1389" y="161" width="858" height="544" key="Registry/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598357977253" />
-    <state x="-1459" y="164" key="SettingsEditor" timestamp="1601554559194">
+    <state x="-1459" y="164" key="SettingsEditor" timestamp="1601557328646">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1459" y="164" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601554559194" />
+    <state x="-1459" y="164" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601557328646" />
     <state x="291" y="102" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601466604031" />
     <state x="369" y="113" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601475894524" />
     <state x="507" y="115" key="VCS.ChangeListViewerDialog" timestamp="1600575321146">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="507" y="115" key="VCS.ChangeListViewerDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1600575321146" />
+    <state x="-1368" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601557198889">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="252" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601557198889" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1600768571026">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
