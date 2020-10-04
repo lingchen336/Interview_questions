@@ -1,6 +1,6 @@
 package com.test.algorithm.jianzhi;
 /*
-数组中有一个数字出现的次数超过数组长度的一半，请找出这个数字。
+某排序数组重复数字的个数
 
 通过找到target+0.5与target-0.5的位置相减得到重复数字的长度。
  */
