@@ -1,6 +1,6 @@
 package com.test.algorithm.Niuke;
 
-public class Sloution {
+public class TransList {
     /*
     输入一个链表，反转链表后，输出新链表的表头。
     */
