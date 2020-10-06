@@ -1,24 +1,54 @@
 package com.test.leetcode;
 /*
-给定一个数组 A[0,1,…,n-1]，请构建一个数组 B[0,1,…,n-1]，其中 B 中的元素 B[i]=A[0]×A[1]×…×A[i-1]×A[i+1]×…×A[n-1]。
-不能使用除法。
+定义栈的数据结构，请在该类型中实现一个能够得到栈的最小元素的 min 函数在该栈中，调用 min、push 及 pop 的时间复杂度都是 O(1)。
 
+示例:
+
+MinStack minStack = new MinStack();
+minStack.push(-2);
+minStack.push(0);
+minStack.push(-3);
+minStack.min();   --> 返回 -3.
+minStack.pop();
+minStack.top();      --> 返回 0.
+minStack.min();   --> 返回 -2.
  */
 
-class Solution {
-    public int[] constructArr(int[] a) {
-        if(a==null||a.length==0)return new int[0];
-        int[] res = new int[a.length];
-        int left = 1;
-        for (int i = 0; i < res.length; i++) {
-            res[i] =left;
-            left *= a[i];
+class MinStack {
+
+    /** initialize your data structure here. */
+    private ListNode head;
+    public MinStack() {
+        head=null;
+    }
+
+    public void push(int x) {
+        if(head==null) head=new ListNode(x,x,null);
+        else {
+            head=new ListNode(x,Math.min(x,head.min),head);
         }
-        int right = 1;
-        for (int i = res.length - 1; i >= 0; i--) {
-            res[i] *= right;
-            right *= a[i];
+    }
+
+    public void pop() {
+        head=head.next;
+    }
+
+    public int top() {
+        return head.val;
+    }
+
+    public int min() {
+        return head.min;
+    }
+
+    class ListNode{
+        int val;
+        int min;
+        ListNode next;
+        public ListNode(int val,int min,ListNode next){
+            this.val=val;
+            this.min=min;
+            this.next=next;
         }
-        return res;
     }
 }

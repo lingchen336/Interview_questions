@@ -7,16 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="算法练习">
-      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/O_66.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview questions/com/test/algorithm/Niuke/Sloution$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview questions/com/test/algorithm/Niuke/Sloution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview questions/com/test/algorithm/Quick_Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview questions/com/test/leetcode/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview questions/com/test/leetcode/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview questions/com/test/temp/Test.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/test/leetcode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/leetcode/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/temp/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/temp/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -318,7 +310,7 @@
       <workItem from="1601604479247" duration="11836000" />
       <workItem from="1601640389725" duration="4680000" />
       <workItem from="1601718359171" duration="6718000" />
-      <workItem from="1601795611223" duration="37349000" />
+      <workItem from="1601795611223" duration="39370000" />
     </task>
     <task id="LOCAL-00001" summary="2020_9_20&#10;已经过去这么长时间了，写了很多代码，加油！">
       <created>1600573960634</created>
@@ -509,7 +501,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601975645513</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="构建乘积数组">
+      <created>1601977653435</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1601977653435</updated>
+    </task>
+    <task id="LOCAL-00029" summary="算法练习">
+      <created>1601977669510</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1601977669510</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TodoView">
@@ -525,8 +531,6 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="算法练习" />
-    <MESSAGE value="二分查找排序数组中某个重复的元素的个数" />
     <MESSAGE value="归并排序求数组中的逆序个数" />
     <MESSAGE value="数组序列中某一位的数字，数学规律总结法" />
     <MESSAGE value="从字符串中找出一个最长的不包含重复字符的子字符串" />
@@ -550,7 +554,9 @@
     <MESSAGE value="经典 链表反转" />
     <MESSAGE value="斐波那契数" />
     <MESSAGE value="数值的整数次方" />
-    <option name="LAST_COMMIT_MESSAGE" value="数值的整数次方" />
+    <MESSAGE value="构建乘积数组" />
+    <MESSAGE value="算法练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法练习" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="178" width="816" height="731" key="#Intentions" timestamp="1599275960469">
@@ -584,11 +590,11 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1230" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601455623676" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1601975644452">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1601977667095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1461" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601951445060" />
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601975644452" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601977667095" />
     <state x="-1736" y="81" width="1228" height="688" key="DiffContextDialog" timestamp="1601557479765">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
