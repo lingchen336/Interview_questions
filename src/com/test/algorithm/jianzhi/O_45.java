@@ -1,17 +1,17 @@
-package com.test.leetcode;
-/*
-ÊäÈëÒ»¸ö·Ç¸ºÕûÊıÊı×é£¬°ÑÊı×éÀïËùÓĞÊı×ÖÆ´½ÓÆğÀ´ÅÅ³ÉÒ»¸öÊı£¬´òÓ¡ÄÜÆ´½Ó³öµÄËùÓĞÊı×ÖÖĞ×îĞ¡µÄÒ»¸ö¡£
-Ê¾Àı1:
-ÊäÈë: [3,30,34,5,9]
-Êä³ö: "3033459"
- */
+package com.test.algorithm.jianzhi;
 
 import java.util.ArrayList;
 import java.util.List;
+/*
+è¾“å…¥ä¸€ä¸ªéè´Ÿæ•´æ•°æ•°ç»„ï¼ŒæŠŠæ•°ç»„é‡Œæ‰€æœ‰æ•°å­—æ‹¼æ¥èµ·æ¥æ’æˆä¸€ä¸ªæ•°ï¼Œæ‰“å°èƒ½æ‹¼æ¥å‡ºçš„æ‰€æœ‰æ•°å­—ä¸­æœ€å°çš„ä¸€ä¸ªã€‚
+ç¤ºä¾‹1:
+è¾“å…¥: [3,30,34,5,9]
+è¾“å‡º: "3033459"
+ */
 
-class Solution {
+class O_45 {
     public String minNumber(int[] nums) {
-        List<String >list=new ArrayList<>();
+        List<String > list=new ArrayList<>();
         for (int i = 0; i < nums.length; i++) {
             list.add(String.valueOf(nums[i]));
         }
