@@ -310,7 +310,7 @@
       <workItem from="1601604479247" duration="11836000" />
       <workItem from="1601640389725" duration="4680000" />
       <workItem from="1601718359171" duration="6718000" />
-      <workItem from="1601795611223" duration="39370000" />
+      <workItem from="1601795611223" duration="41444000" />
     </task>
     <task id="LOCAL-00001" summary="2020_9_20&#10;已经过去这么长时间了，写了很多代码，加油！">
       <created>1600573960634</created>
@@ -515,7 +515,28 @@
       <option name="project" value="LOCAL" />
       <updated>1601977669510</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="包含min函数的栈">
+      <created>1601986494064</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1601986494064</updated>
+    </task>
+    <task id="LOCAL-00031" summary="算法练习">
+      <created>1601986506159</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1601986506159</updated>
+    </task>
+    <task id="LOCAL-00032" summary="n个骰子的点数">
+      <created>1601988679969</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1601988679969</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TodoView">
@@ -531,8 +552,6 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="归并排序求数组中的逆序个数" />
-    <MESSAGE value="数组序列中某一位的数字，数学规律总结法" />
     <MESSAGE value="从字符串中找出一个最长的不包含重复字符的子字符串" />
     <MESSAGE value="二维数组中的查找" />
     <MESSAGE value="O_62圆圈中最后剩下的数字" />
@@ -555,8 +574,10 @@
     <MESSAGE value="斐波那契数" />
     <MESSAGE value="数值的整数次方" />
     <MESSAGE value="构建乘积数组" />
+    <MESSAGE value="包含min函数的栈" />
     <MESSAGE value="算法练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="算法练习" />
+    <MESSAGE value="n个骰子的点数" />
+    <option name="LAST_COMMIT_MESSAGE" value="n个骰子的点数" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="178" width="816" height="731" key="#Intentions" timestamp="1599275960469">
@@ -590,11 +611,11 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1230" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601455623676" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1601977667095">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1601988678716">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1461" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601951445060" />
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601977667095" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601988678716" />
     <state x="-1736" y="81" width="1228" height="688" key="DiffContextDialog" timestamp="1601557479765">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -663,21 +684,21 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1389" y="161" width="858" height="544" key="Registry/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598357977253" />
-    <state x="291" y="102" key="SettingsEditor" timestamp="1601948321617">
+    <state x="291" y="102" key="SettingsEditor" timestamp="1601988729417">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1459" y="164" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601906735002" />
-    <state x="291" y="102" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601948321617" />
+    <state x="291" y="102" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601988729417" />
     <state x="369" y="113" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601475894524" />
     <state x="507" y="115" key="VCS.ChangeListViewerDialog" timestamp="1600575321146">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="507" y="115" key="VCS.ChangeListViewerDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1600575321146" />
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1601975655107">
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1601988687157">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1368" y="252" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601951457313" />
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601975655107" />
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601988687157" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1600768571026">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
