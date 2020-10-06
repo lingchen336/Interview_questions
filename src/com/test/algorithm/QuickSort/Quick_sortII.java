@@ -1,7 +1,7 @@
-package com.test.algorithm.Niuke;
+package com.test.algorithm.QuickSort;
 
 /*
-quickSort 快速排序。。。
+quickSort 快速排序。。。递归法
  */
 
 import java.sql.SQLOutput;
