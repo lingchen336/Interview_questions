@@ -1,26 +1,20 @@
 package com.test.leetcode;
 /*
-输入一个非负整数数组，把数组里所有数字拼接起来排成一个数，打印能拼接出的所有数字中最小的一个。
-示例1:
-输入: [3,30,34,5,9]
-输出: "3033459"
+一只青蛙一次可以跳上1级台阶，也可以跳上2级台阶。求该青蛙跳上一个 n级的台阶总共有多少种跳法。
+
+答案需要取模 1e9+7（1000000007），如计算初始结果为：1000000008，请返回 1。
+
  */
 
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
-    public String minNumber(int[] nums) {
-        List<String >list=new ArrayList<>();
-        for (int i = 0; i < nums.length; i++) {
-            list.add(String.valueOf(nums[i]));
+    public int numWays(int n) {  //抽象为求斐波那契数列的第N个数
+        int a=1,b=1;
+        int sum;
+        for (int i = 0; i < n; i++) {
+            sum=(a+b)%1000000007;
+            a=b;
+            b=sum;
         }
-        list.sort((o1,o2)->((o1+o2).compareTo(o2+o1)));
-        StringBuilder stringBuilder=new StringBuilder();
-        StringBuilder sb=new StringBuilder();
-        for(String s : list){
-            sb.append(s);
-        }
-        return sb.toString();
+        return a;
     }
 }
