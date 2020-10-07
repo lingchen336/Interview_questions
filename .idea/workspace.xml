@@ -6,8 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="二叉树的公共祖先">
-      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/BiTree/O_32_II.java" afterDir="false" />
+    <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="从上到下打印二叉树II">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/algorithm/BiTree/O_32_III.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/algorithm/BiTree/O_32_III.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -320,21 +321,7 @@
       <workItem from="1601604479247" duration="11836000" />
       <workItem from="1601640389725" duration="4680000" />
       <workItem from="1601718359171" duration="6718000" />
-      <workItem from="1601795611223" duration="64093000" />
-    </task>
-    <task id="LOCAL-00006" summary="数组序列中某一位的数字，数学规律总结法">
-      <created>1601630185529</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1601630185529</updated>
-    </task>
-    <task id="LOCAL-00007" summary="从字符串中找出一个最长的不包含重复字符的子字符串">
-      <created>1601634377513</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1601634377513</updated>
+      <workItem from="1601795611223" duration="65624000" />
     </task>
     <task id="LOCAL-00008" summary="二维数组中的查找">
       <created>1601641439831</created>
@@ -665,7 +652,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602064711144</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="从上到下打印数组II">
+      <created>1602065602994</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1602065602994</updated>
+    </task>
+    <task id="LOCAL-00056" summary="从上到下打印二叉树II">
+      <created>1602065684301</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1602065684301</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TodoView">
@@ -681,8 +682,6 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="经典非递归快排" />
-    <MESSAGE value="经典递归快排" />
     <MESSAGE value="经典 链表反转" />
     <MESSAGE value="斐波那契数" />
     <MESSAGE value="数值的整数次方" />
@@ -706,7 +705,9 @@
     <MESSAGE value="二叉树的最近公共祖先" />
     <MESSAGE value="从上到下打印树" />
     <MESSAGE value="二叉树的公共祖先" />
-    <option name="LAST_COMMIT_MESSAGE" value="二叉树的公共祖先" />
+    <MESSAGE value="从上到下打印数组II" />
+    <MESSAGE value="从上到下打印二叉树II" />
+    <option name="LAST_COMMIT_MESSAGE" value="从上到下打印二叉树II" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="178" width="816" height="731" key="#Intentions" timestamp="1599275960469">
@@ -740,11 +741,11 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1230" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601455623676" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1602064709885">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1602065709888">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1461" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601997611146" />
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602064709885" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602065709888" />
     <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601999772229" />
     <state x="-1736" y="81" width="1228" height="688" key="DiffContextDialog" timestamp="1601557479765">
       <screen x="-1920" y="0" width="1920" height="1040" />
