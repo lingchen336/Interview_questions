@@ -6,11 +6,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/Solution.java" afterDir="false" />
+    <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="平衡二叉树">
+      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/BiTree/O_07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/algorithm/Niuke/Zhexuejia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/algorithm/Niuke/Zhexuejia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/O_44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/O_44.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/O_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/algorithm/BiTree/O_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/O_55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/algorithm/BiTree/O_55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/test/leetcode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/leetcode/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +24,7 @@
       <list>
         <option value="FxmlFile" />
         <option value="package-info" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -61,6 +63,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598270444651" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/com/test/algorithm/jianzhi" />
     <property name="last_opened_file_path" value="G:/java项目/supermarket" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -69,9 +75,15 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.test.algorithm.jianzhi" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="com.test.StringDemo" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Generic" />
@@ -140,7 +152,7 @@
       <module name="Interview questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.algorithm.jianzhi.*" />
+          <option name="PATTERN" value="com.test.algorithm.BiTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,7 +325,7 @@
       <workItem from="1601604479247" duration="11836000" />
       <workItem from="1601640389725" duration="4680000" />
       <workItem from="1601718359171" duration="6718000" />
-      <workItem from="1601795611223" duration="50192000" />
+      <workItem from="1601795611223" duration="56606000" />
     </task>
     <task id="LOCAL-00001" summary="2020_9_20&#10;已经过去这么长时间了，写了很多代码，加油！">
       <created>1600573960634</created>
@@ -588,7 +600,42 @@
       <option name="project" value="LOCAL" />
       <updated>1601999773346</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="最长不重复子串">
+      <created>1602032934922</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1602032934922</updated>
+    </task>
+    <task id="LOCAL-00041" summary="平衡二叉树">
+      <created>1602033091692</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1602033091692</updated>
+    </task>
+    <task id="LOCAL-00042" summary="树的子结构">
+      <created>1602035170400</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1602035170400</updated>
+    </task>
+    <task id="LOCAL-00043" summary="平衡二叉树">
+      <created>1602035202525</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1602035202525</updated>
+    </task>
+    <task id="LOCAL-00044" summary="二叉树的子结构">
+      <created>1602054785400</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1602054785400</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TodoView">
@@ -604,10 +651,6 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="在范围0～n-1内的n个数字中有且只有一个数字不在该数组中，请找出这个数字" />
-    <MESSAGE value="如何得到一个数据流中的中位数,双优先级队列" />
-    <MESSAGE value="某排序数组重复数字的个数" />
-    <MESSAGE value="把数字翻译成字符串" />
     <MESSAGE value="把字符串转换成整数" />
     <MESSAGE value="快速排序" />
     <MESSAGE value="输入一个字符串，打印出该字符串中字符的所有排列。" />
@@ -629,7 +672,11 @@
     <MESSAGE value="哲学家进餐问题" />
     <MESSAGE value="找出数组中重复的数字" />
     <MESSAGE value="数组中只出现一次的数字" />
-    <option name="LAST_COMMIT_MESSAGE" value="数组中只出现一次的数字" />
+    <MESSAGE value="最长不重复子串" />
+    <MESSAGE value="树的子结构" />
+    <MESSAGE value="平衡二叉树" />
+    <MESSAGE value="二叉树的子结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉树的子结构" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="178" width="816" height="731" key="#Intentions" timestamp="1599275960469">
@@ -663,11 +710,11 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1230" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601455623676" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1601999772229">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1602054784344">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1461" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601997611146" />
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601997040818" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602054784344" />
     <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601999772229" />
     <state x="-1736" y="81" width="1228" height="688" key="DiffContextDialog" timestamp="1601557479765">
       <screen x="-1920" y="0" width="1920" height="1040" />
@@ -747,12 +794,16 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="507" y="115" key="VCS.ChangeListViewerDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1600575321146" />
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1601999781374">
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1602035214389">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1368" y="252" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601951457313" />
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601990365457" />
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602035214389" />
     <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601999781374" />
+    <state x="565" y="189" key="chooseDestDirectoryDialog" timestamp="1602035036665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="189" key="chooseDestDirectoryDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602035036665" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1600768571026">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -761,6 +812,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1599218635954" />
+    <state x="539" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1602035036687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="539" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602035036687" />
     <state x="-1565" y="0" width="1127" height="812" maximized="true" key="dock-window-1" timestamp="1600068264544">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
