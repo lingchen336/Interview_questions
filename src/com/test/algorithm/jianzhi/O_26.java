@@ -30,7 +30,7 @@ B是A的子结构， 即 A中有出现和B相同的结构和节点值。
 
     public boolean isSubStructure(TreeNode A,TreeNode B) {
         if(A==null||B==null)return false;
-        return judge(A,B)||judge(A.left,B)||judge(A.right,B);
+        return judge(A,B)||isSubStructure (A.left,B)||isSubStructure (A.right,B);
     }
     boolean judge(TreeNode a,TreeNode b){
         return (a==null||b==null)?(b==null):(a.val==b.val)&&judge(a.left,b.left)&&judge(a.right,b.right);
