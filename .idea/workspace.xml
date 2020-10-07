@@ -6,8 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="二叉搜索树的第k大节点">
-      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/BiTree/O_33.java" afterDir="false" />
+    <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="二叉搜索树的后序遍历">
+      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/BiTree/O_34.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -321,14 +321,7 @@
       <workItem from="1601604479247" duration="11836000" />
       <workItem from="1601640389725" duration="4680000" />
       <workItem from="1601718359171" duration="6718000" />
-      <workItem from="1601795611223" duration="70107000" />
-    </task>
-    <task id="LOCAL-00010" summary="旋转数组的最小数字">
-      <created>1601644833028</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1601644833028</updated>
+      <workItem from="1601795611223" duration="72483000" />
     </task>
     <task id="LOCAL-00011" summary="数组中查找两个数，使得它们的和正好是s">
       <created>1601781145343</created>
@@ -666,7 +659,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602079885283</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="二叉搜索树的后序遍历">
+      <created>1602082258983</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1602082258983</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TodoView">
@@ -682,7 +682,6 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="数值的整数次方" />
     <MESSAGE value="构建乘积数组" />
     <MESSAGE value="包含min函数的栈" />
     <MESSAGE value="算法练习" />
@@ -707,7 +706,8 @@
     <MESSAGE value="从上到下打印二叉树II" />
     <MESSAGE value="从上到下打印二叉树III(之字形打印)" />
     <MESSAGE value="二叉搜索树的第k大节点" />
-    <option name="LAST_COMMIT_MESSAGE" value="二叉搜索树的第k大节点" />
+    <MESSAGE value="二叉搜索树的后序遍历" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉搜索树的后序遍历" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="178" width="816" height="731" key="#Intentions" timestamp="1599275960469">
@@ -741,11 +741,11 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1230" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601455623676" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1602079883929">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1602082257825">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1461" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601997611146" />
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602079883929" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602082257825" />
     <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601999772229" />
     <state x="-1736" y="81" width="1228" height="688" key="DiffContextDialog" timestamp="1601557479765">
       <screen x="-1920" y="0" width="1920" height="1040" />
