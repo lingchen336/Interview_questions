@@ -9,7 +9,7 @@ import java.util.HashMap;
 输出: 3
 解释: 因为无重复字符的最长子串是 "abc"，所以其长度为 3。
  */
-class Solution {
+class O_44 {
     public static int lengthOfLongestSubstring(String s) {
         int n = s.length(), ans = 0;
         Map<Character, Integer> map = new HashMap<>();//key出现的字符，value对应的最新的位置
