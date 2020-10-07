@@ -21,8 +21,8 @@ public class O_68 {
         if(root==null||root==p||root==q)return root;
         TreeNode rleft=lowestCommonAncestor(root.left,p,q);
         TreeNode rright=lowestCommonAncestor(root.right,p,q);
-        if(root.left==null)return rright;
-        if(root.right==null)return rleft;
+        if(rleft==null)return rright;
+        if(rright==null)return rleft;
         return root;                       //rleft!=null&&rright!=null
     }
 }
