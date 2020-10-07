@@ -6,9 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="二叉树的镜像">
-      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/BiTree/O_68.java" afterDir="false" />
+    <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="二叉树的最近公共祖先">
+      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/BiTree/O_32.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/algorithm/BiTree/O_68.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/algorithm/BiTree/O_68.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -321,14 +322,7 @@
       <workItem from="1601604479247" duration="11836000" />
       <workItem from="1601640389725" duration="4680000" />
       <workItem from="1601718359171" duration="6718000" />
-      <workItem from="1601795611223" duration="61367000" />
-    </task>
-    <task id="LOCAL-00003" summary="算法练习">
-      <created>1601557430848</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1601557430848</updated>
+      <workItem from="1601795611223" duration="62924000" />
     </task>
     <task id="LOCAL-00004" summary="二分查找排序数组中某个重复的元素的个数">
       <created>1601606597145</created>
@@ -666,7 +660,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602059627253</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="二叉树的最近公共祖先">
+      <created>1602061495837</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1602061495837</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TodoView">
@@ -682,7 +683,6 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="在字符串 s 中找出第一个只出现一次的字符" />
     <MESSAGE value="数组top K 个数字" />
     <MESSAGE value="最小Top K 部分快速排序法" />
     <MESSAGE value="经典非递归快排" />
@@ -707,7 +707,8 @@
     <MESSAGE value="树的深度" />
     <MESSAGE value="对称的二叉树" />
     <MESSAGE value="二叉树的镜像" />
-    <option name="LAST_COMMIT_MESSAGE" value="二叉树的镜像" />
+    <MESSAGE value="二叉树的最近公共祖先" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉树的最近公共祖先" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="178" width="816" height="731" key="#Intentions" timestamp="1599275960469">
@@ -741,11 +742,11 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1230" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601455623676" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1602059625982">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1602063577023">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1461" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601997611146" />
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602059625982" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602063577023" />
     <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601999772229" />
     <state x="-1736" y="81" width="1228" height="688" key="DiffContextDialog" timestamp="1601557479765">
       <screen x="-1920" y="0" width="1920" height="1040" />
