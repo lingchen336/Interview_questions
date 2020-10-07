@@ -6,10 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="把数组排成最小的数">
-      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/O_24.java" afterDir="false" />
+    <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/algorithm/Niuke/TransList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/algorithm/Niuke/Zhexuejia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/algorithm/Niuke/Zhexuejia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/O_44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/O_44.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/test/leetcode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/leetcode/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.algorithm.jianzhi.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.leetcode.Solution" />
       <module name="Interview questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.algorithm.jianzhi.*" />
+          <option name="PATTERN" value="com.test.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +136,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.leetcode.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.test.algorithm.jianzhi.Solution" />
       <module name="Interview questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.leetcode.*" />
+          <option name="PATTERN" value="com.test.algorithm.jianzhi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,7 +313,7 @@
       <workItem from="1601604479247" duration="11836000" />
       <workItem from="1601640389725" duration="4680000" />
       <workItem from="1601718359171" duration="6718000" />
-      <workItem from="1601795611223" duration="44561000" />
+      <workItem from="1601795611223" duration="50192000" />
     </task>
     <task id="LOCAL-00001" summary="2020_9_20&#10;已经过去这么长时间了，写了很多代码，加油！">
       <created>1600573960634</created>
@@ -552,7 +553,42 @@
       <option name="project" value="LOCAL" />
       <updated>1601990322878</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="青蛙跳台阶">
+      <created>1601992690748</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1601992690748</updated>
+    </task>
+    <task id="LOCAL-00036" summary="哲学家进餐问题">
+      <created>1601997041990</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1601997041990</updated>
+    </task>
+    <task id="LOCAL-00037" summary="找出数组中重复的数字">
+      <created>1601997435641</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1601997435641</updated>
+    </task>
+    <task id="LOCAL-00038" summary="数组中只出现一次的数字">
+      <created>1601997612661</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1601997612661</updated>
+    </task>
+    <task id="LOCAL-00039" summary="数组中只出现一次的数字">
+      <created>1601999773346</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1601999773346</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TodoView">
@@ -568,10 +604,6 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="二维数组中的查找" />
-    <MESSAGE value="O_62圆圈中最后剩下的数字" />
-    <MESSAGE value="旋转数组的最小数字" />
-    <MESSAGE value="数组中查找两个数，使得它们的和正好是s" />
     <MESSAGE value="在范围0～n-1内的n个数字中有且只有一个数字不在该数组中，请找出这个数字" />
     <MESSAGE value="如何得到一个数据流中的中位数,双优先级队列" />
     <MESSAGE value="某排序数组重复数字的个数" />
@@ -593,7 +625,11 @@
     <MESSAGE value="算法练习" />
     <MESSAGE value="n个骰子的点数" />
     <MESSAGE value="把数组排成最小的数" />
-    <option name="LAST_COMMIT_MESSAGE" value="把数组排成最小的数" />
+    <MESSAGE value="青蛙跳台阶" />
+    <MESSAGE value="哲学家进餐问题" />
+    <MESSAGE value="找出数组中重复的数字" />
+    <MESSAGE value="数组中只出现一次的数字" />
+    <option name="LAST_COMMIT_MESSAGE" value="数组中只出现一次的数字" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="178" width="816" height="731" key="#Intentions" timestamp="1599275960469">
@@ -627,11 +663,12 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1230" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601455623676" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1601990321497">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1601999772229">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-1461" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601951445060" />
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601990321497" />
+    <state x="-1461" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601997611146" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601997040818" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601999772229" />
     <state x="-1736" y="81" width="1228" height="688" key="DiffContextDialog" timestamp="1601557479765">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -700,21 +737,22 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1389" y="161" width="858" height="544" key="Registry/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1598357977253" />
-    <state x="291" y="102" key="SettingsEditor" timestamp="1601988922312">
+    <state x="369" y="113" key="SettingsEditor" timestamp="1601999813718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1459" y="164" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601906735002" />
     <state x="291" y="102" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601988922312" />
-    <state x="369" y="113" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601475894524" />
+    <state x="369" y="113" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601999813718" />
     <state x="507" y="115" key="VCS.ChangeListViewerDialog" timestamp="1600575321146">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="507" y="115" key="VCS.ChangeListViewerDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1600575321146" />
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1601990365457">
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1601999781374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1368" y="252" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601951457313" />
     <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601990365457" />
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601999781374" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1600768571026">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
