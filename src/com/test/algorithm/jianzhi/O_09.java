@@ -8,6 +8,7 @@ package com.test.algorithm.jianzhi;
  */
 import java.util.Deque;
 import java.util.LinkedList;
+import java.util.Stack;
 
 public class O_09 {
     private Deque<Integer> a,b;
@@ -17,19 +18,19 @@ public class O_09 {
     }
 
     public void appendTail(int value) {
-        a.add(value);
+        a.push(value);
     }
 
     public int deleteHead() {
         if(b.isEmpty()){
             while (!a.isEmpty()){
-                b.push(a.poll());
+                b.push(a.pop());
             }
         }
         if(b.isEmpty()){
             return -1;
         }else{
-            int deleteItem=b.poll();
+            int deleteItem=b.pop();
             return deleteItem;
         }
     }
