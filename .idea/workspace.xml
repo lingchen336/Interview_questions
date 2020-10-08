@@ -6,9 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="连续子数组最大和">
-      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/O_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/leetcode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/leetcode/Solution.java" afterDir="false" />
+    <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="替换空格">
+      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/O_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -321,14 +321,7 @@
       <workItem from="1601604479247" duration="11836000" />
       <workItem from="1601640389725" duration="4680000" />
       <workItem from="1601718359171" duration="6718000" />
-      <workItem from="1601795611223" duration="81280000" />
-    </task>
-    <task id="LOCAL-00017" summary="快速排序">
-      <created>1601813367528</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1601813367528</updated>
+      <workItem from="1601795611223" duration="82107000" />
     </task>
     <task id="LOCAL-00018" summary="输入一个字符串，打印出该字符串中字符的所有排列。">
       <created>1601815719622</created>
@@ -666,7 +659,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602139890731</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="替换空格">
+      <created>1602140132706</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1602140132706</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TodoView">
@@ -682,7 +682,6 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="哲学家进餐问题" />
     <MESSAGE value="找出数组中重复的数字" />
     <MESSAGE value="数组中只出现一次的数字" />
     <MESSAGE value="最长不重复子串" />
@@ -707,7 +706,8 @@
     <MESSAGE value="二进制中1的个数" />
     <MESSAGE value="连续子数组最大和" />
     <MESSAGE value="十进制中1出现的个数" />
-    <option name="LAST_COMMIT_MESSAGE" value="十进制中1出现的个数" />
+    <MESSAGE value="替换空格" />
+    <option name="LAST_COMMIT_MESSAGE" value="替换空格" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="178" width="816" height="731" key="#Intentions" timestamp="1599275960469">
@@ -741,11 +741,11 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1230" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601455623676" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1602139889537">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1602140131465">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1461" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601997611146" />
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602139889537" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602140131465" />
     <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602087441645" />
     <state x="-1736" y="81" width="1228" height="688" key="DiffContextDialog" timestamp="1601557479765">
       <screen x="-1920" y="0" width="1920" height="1040" />
