@@ -6,8 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="二叉树中和为某一值的节点">
-      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/BiTree/O_36.java" afterDir="false" />
+    <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="二叉搜索树与双向链表">
+      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/BiTree/O_37.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -321,14 +321,7 @@
       <workItem from="1601604479247" duration="11836000" />
       <workItem from="1601640389725" duration="4680000" />
       <workItem from="1601718359171" duration="6718000" />
-      <workItem from="1601795611223" duration="73802000" />
-    </task>
-    <task id="LOCAL-00012" summary="在范围0～n-1内的n个数字中有且只有一个数字不在该数组中，请找出这个数字">
-      <created>1601781325071</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1601781325071</updated>
+      <workItem from="1601795611223" duration="76993000" />
     </task>
     <task id="LOCAL-00013" summary="如何得到一个数据流中的中位数,双优先级队列">
       <created>1601781376386</created>
@@ -666,7 +659,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602085206060</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="二叉搜索树与双向链表">
+      <created>1602087442907</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1602087442907</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TodoView">
@@ -682,7 +682,6 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="包含min函数的栈" />
     <MESSAGE value="算法练习" />
     <MESSAGE value="n个骰子的点数" />
     <MESSAGE value="把数组排成最小的数" />
@@ -707,7 +706,8 @@
     <MESSAGE value="二叉搜索树的第k大节点" />
     <MESSAGE value="二叉搜索树的后序遍历" />
     <MESSAGE value="二叉树中和为某一值的节点" />
-    <option name="LAST_COMMIT_MESSAGE" value="二叉树中和为某一值的节点" />
+    <MESSAGE value="二叉搜索树与双向链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉搜索树与双向链表" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="178" width="816" height="731" key="#Intentions" timestamp="1599275960469">
@@ -741,12 +741,12 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1230" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601455623676" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1602085204807">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1602087441645">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1461" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601997611146" />
     <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602082257825" />
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602085204807" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602087441645" />
     <state x="-1736" y="81" width="1228" height="688" key="DiffContextDialog" timestamp="1601557479765">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -825,12 +825,12 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="507" y="115" key="VCS.ChangeListViewerDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1600575321146" />
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1602077849407">
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1602119700773">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1368" y="252" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601951457313" />
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602077849407" />
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601999781374" />
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602119700773" />
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602087453330" />
     <state x="565" y="189" key="chooseDestDirectoryDialog" timestamp="1602035036665">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
