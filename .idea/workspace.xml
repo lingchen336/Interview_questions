@@ -7,8 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a0cdf8-e2e7-40e8-accd-b321a8c1fc12" name="默认" comment="连续子数组最大和">
-      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/O_43.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/algorithm/jianzhi/O_05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/test/leetcode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/leetcode/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -322,14 +321,7 @@
       <workItem from="1601604479247" duration="11836000" />
       <workItem from="1601640389725" duration="4680000" />
       <workItem from="1601718359171" duration="6718000" />
-      <workItem from="1601795611223" duration="80951000" />
-    </task>
-    <task id="LOCAL-00016" summary="把字符串转换成整数">
-      <created>1601805464786</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1601805464786</updated>
+      <workItem from="1601795611223" duration="81280000" />
     </task>
     <task id="LOCAL-00017" summary="快速排序">
       <created>1601813367528</created>
@@ -667,7 +659,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602124483073</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="十进制中1出现的个数">
+      <created>1602139890731</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1602139890731</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TodoView">
@@ -683,7 +682,6 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="青蛙跳台阶" />
     <MESSAGE value="哲学家进餐问题" />
     <MESSAGE value="找出数组中重复的数字" />
     <MESSAGE value="数组中只出现一次的数字" />
@@ -708,7 +706,8 @@
     <MESSAGE value="序列化二叉树" />
     <MESSAGE value="二进制中1的个数" />
     <MESSAGE value="连续子数组最大和" />
-    <option name="LAST_COMMIT_MESSAGE" value="连续子数组最大和" />
+    <MESSAGE value="十进制中1出现的个数" />
+    <option name="LAST_COMMIT_MESSAGE" value="十进制中1出现的个数" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="178" width="816" height="731" key="#Intentions" timestamp="1599275960469">
@@ -742,11 +741,11 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1230" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601455623676" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1602124481850">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1602139889537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-1461" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601997611146" />
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602124481850" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602139889537" />
     <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602087441645" />
     <state x="-1736" y="81" width="1228" height="688" key="DiffContextDialog" timestamp="1601557479765">
       <screen x="-1920" y="0" width="1920" height="1040" />
