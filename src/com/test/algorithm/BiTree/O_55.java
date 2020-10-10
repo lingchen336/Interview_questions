@@ -13,7 +13,7 @@ class O_55 {
         TreeNode(int x) { val = x; }
     }
     public boolean isBalanced(TreeNode root) {
-        return sub(root)==-1;
+        return sub(root)!=-1;
     }
     protected int sub(TreeNode root){
         if(root==null)return 0;
