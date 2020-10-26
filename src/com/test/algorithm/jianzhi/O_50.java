@@ -22,7 +22,7 @@ class O_50 {
         return ' ';
     }
     public static void main(String[] args) {
-        System.out.println(firstUniqChar("ddccdbba"));
+        System.out.println(firstUniqChar("ddccdbbab"));
 //        System.out.println();
 //        ccc();
     }
